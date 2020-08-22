@@ -1,6 +1,6 @@
 body {
   font-family: 'Indie Flower', cursive;
-  background-color: #f8d77c67;
+  background-color: #d3b17380;;
   padding: 10px;
 }
 h1 {
@@ -10,6 +10,9 @@ h1 {
 
 img {
   border-radius: 50px;
+  height: 300px;
+  width: auto;
+
 }
 
 .navbar {
